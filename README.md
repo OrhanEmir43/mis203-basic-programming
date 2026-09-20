@@ -1,1 +1,4 @@
-# mis203-basic-programming
+- **Name:** Orhan Emir Dağtaş
+- **Student Number:** 2504109029
+- **Department:** MIS
+- **Course Name:** MIS 203 - Basic Programming
